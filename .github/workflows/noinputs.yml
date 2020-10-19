@@ -1,7 +1,6 @@
 name: NoInputs
 on:
   workflow_dispatch:
-    inputs:
 jobs:
   test:
     runs-on: ubuntu-latest
